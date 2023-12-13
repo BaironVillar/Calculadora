@@ -440,6 +440,5 @@ main_frame.pack()
 main_frame.pack_propagate(False)
 main_frame.configure(height=1920, width=1080)
 
-
 #Inicio Programa
 root.mainloop()
